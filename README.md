@@ -32,8 +32,8 @@ conda activate yolov8
 Clone this repository to your local machine and navigate into the project directory:
 
 ```
-git clone https://github.com/mrkrisgee/vehicle_detection_yolov8.git
-cd vehicle_detection_yolov8
+git clone https://github.com/mrkrisgee/object_detection_yolov8.git
+cd object_detection_yolov8
 ```
 
 ### Install Necessary Packages
