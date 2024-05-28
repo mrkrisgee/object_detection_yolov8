@@ -1,5 +1,9 @@
 # Vehicle Detection with YOLOv8
 
+<p align="center">
+  <img src="https://github.com/mrkrisgee/vehicle_detection_yolov8/blob/main/yolov8l_car_counter.gif" alt="YOLOv8 Car Counter">
+</p>
+
 ## Usage
 
 ### Create a virtual environment
