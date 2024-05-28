@@ -1,4 +1,4 @@
-<h1 align="center">Vehicle Detection with YOLOv8</h1>
+<h1 align="center">Object Detection with YOLOv8</h1>
 
 <p align="center">
   <img src="https://github.com/mrkrisgee/vehicle_detection_yolov8/blob/main/yolov8l_car_counter.gif" alt="YOLOv8 Vehicle Detection">
