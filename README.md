@@ -60,6 +60,7 @@ To run the vehicle detection script, execute the following command:
 python car_counter.py
 ```
 or
+To run the people counter script, execute the following command:
 ```
 python people_counter.py
 ```
