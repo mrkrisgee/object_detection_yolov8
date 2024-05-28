@@ -1,8 +1,8 @@
+<h1 align="center">Vehicle Detection with YOLOv8</h1>
+
 <p align="center">
   <img src="https://github.com/mrkrisgee/vehicle_detection_yolov8/blob/main/yolov8l_car_counter.gif" alt="YOLOv8 Vehicle Detection">
 </p>
-
-# Vehicle Detection with YOLOv8
 
 ## Overview
 
@@ -17,8 +17,6 @@ Ensure you have [Anaconda](https://www.anaconda.com/) installed on your system. 
 ### Create a Virtual Environment
 
 Create and activate a new conda environment by running the following commands in your terminal:
-
-We assume you have [Anaconda](https://www.anaconda.com/) installed. To install the required packages, run the following commands:
 
 ```
 conda create -n yolov8
