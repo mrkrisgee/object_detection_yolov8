@@ -4,7 +4,7 @@
   <img src="https://github.com/mrkrisgee/object_detection_yolov8/blob/main/gifs/yolov8l_car_counter.gif" alt="YOLOv8 Vehicle Detection">
 </p>
 <p align="center">
-  <img src="https://github.com/mrkrisgee/object_detection_yolov8/blob/main/gifs/yolov8l_people_counter.gif" alt="YOLOv8 Vehicle Detection">
+  <img src="https://github.com/mrkrisgee/object_detection_yolov8/blob/main/gifs/yolov8l_people_counter.gif" alt="YOLOv8 People Counter">
 </p>
 
 
