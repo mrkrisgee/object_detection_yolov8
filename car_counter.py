@@ -7,7 +7,7 @@ from sort import *
 import torch
 
 ### For Video
-cap = cv2.VideoCapture("Videos/cars.mp4")
+cap = cv2.VideoCapture("videos/cars.mp4")
 
 model = YOLO("../Yolo-Weights/yolov8l.pt")
 
