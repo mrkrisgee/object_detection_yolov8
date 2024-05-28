@@ -2,7 +2,7 @@
 
 ## Usage
 
-### Create a Virtual environment
+### Create a virtual environment
 
 We assume you have [Anaconda](https://www.anaconda.com/) installed.
 
@@ -10,6 +10,16 @@ We assume you have [Anaconda](https://www.anaconda.com/) installed.
 conda create -n yolov8
 conda activate yolov8
 ```
+
+### Clone the repository
+
+```
+git clone https://github.com/mrkrisgee/vehicle_detection_yolov8.git
+cd vehicle_detection_yolov8
+```
+
+
+
 
 
 ## References
