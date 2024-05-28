@@ -2,6 +2,14 @@
 
 ## Usage
 
+### Create a Virtual environment
+
+We assume you have [Anaconda](https://www.anaconda.com/) installed.
+
+```
+conda create -n yolov8
+conda activate yolov8
+```
 
 
 ## References
