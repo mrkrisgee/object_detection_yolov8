@@ -1,12 +1,16 @@
 <h1 align="center">Object Detection with YOLOv8</h1>
 
 <p align="center">
-  <img src="https://github.com/mrkrisgee/vehicle_detection_yolov8/blob/main/yolov8l_car_counter.gif" alt="YOLOv8 Vehicle Detection">
+  <img src="https://github.com/mrkrisgee/object_detection_yolov8/blob/main/gifs/yolov8l_car_counter.gif" alt="YOLOv8 Vehicle Detection">
 </p>
+<p align="center">
+  <img src="https://github.com/mrkrisgee/object_detection_yolov8/blob/main/gifs/yolov8l_people_counter.gif" alt="YOLOv8 Vehicle Detection">
+</p>
+
 
 ## Overview
 
-This repository contains code for vehicle detection using the YOLOv8 model. The YOLO (You Only Look Once) model is a state-of-the-art, real-time object detection system.
+This repository contains code for object detection using the YOLOv8 model. The YOLO (You Only Look Once) model is a state-of-the-art, real-time object detection system.
 
 ## Usage
 
@@ -48,12 +52,16 @@ If you have an NVIDIA GPU and want to utilize CUDA for acceleration, download an
 https://developer.nvidia.com/cuda-downloads
 ```
 
-### Run the Script
+### Run the Scripts
 
 To run the vehicle detection script, execute the following command:
 
 ```
 python car_counter.py
+```
+or
+```
+python people_counter.py
 ```
 
 ## References
