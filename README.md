@@ -4,7 +4,7 @@
 
 ### Create a virtual environment
 
-We assume you have [Anaconda](https://www.anaconda.com/) installed.
+We assume you have [Anaconda](https://www.anaconda.com/) installed. To install the required packages, run the following commands:
 
 ```
 conda create -n yolov8
@@ -16,6 +16,18 @@ conda activate yolov8
 ```
 git clone https://github.com/mrkrisgee/vehicle_detection_yolov8.git
 cd vehicle_detection_yolov8
+```
+
+### Install necessary packages
+
+```
+pip install -r requirements.txt
+```
+
+### Download CUDA toolkit
+
+```
+https://developer.nvidia.com/cuda-downloads
 ```
 
 ### Run the script
